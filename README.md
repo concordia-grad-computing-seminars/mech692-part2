@@ -11,3 +11,8 @@ Topics:
 Requirements:
 * knowledge of the basics of matlab
 
+This file is in a **markup language**, called *MarkDown*.
+* an item
+* another item
+
+`if (x>3) then `
