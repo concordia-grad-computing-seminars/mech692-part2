@@ -11,11 +11,7 @@ Topics:
 Requirements:
 * knowledge of the basics of matlab
 
-This file is in a **markup language**, called *MarkDown*.
-* an item
-* another item
-
-`if (x>3) then `
-
-oops... just one more change for the road.
-
+Assignments:
+* Assignment 1: Canadian Climate Data Visualization
+* Assignment 2: building...
+* Assignment 3: building...
